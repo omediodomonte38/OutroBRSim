@@ -1,0 +1,7 @@
+Nome,Vida,Defensa,Ataque,Veciños
+Xabarín,15,0,5,Son Goku;Miro Pereira
+Son Goku,10,0,8,Xabarín;Atilano
+Atilano,5,4,5,Son Goku;Miro Pereira;Tonecho
+Miro Pereira,9,2,5,Xabarín;Atilano;Pardo de Cela
+Pardo de Cela,7,3,6,Miro Pereira;Tonecho
+Tonecho,8,4,4,Atilano;Pardo de Cela

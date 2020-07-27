@@ -1,0 +1,115 @@
+
+Día  0
+Tonecho descansou para recuperar folgos
+Son Goku atopou Ferro da cociña que lle da: HP: 0 ATK: 4 DEF: 2
+	En total ten: Ferro da cociña
+Pardo de Cela intentou matar a Miro Pereira pero non deu e ambos escaparon vivos
+Xabarín atopou Pastillas misteriosas que lle da: HP: 4 ATK: 2 DEF: 2
+	En total ten: Pastillas misteriosas
+Atilano atopou Vendas que lle da: HP: 7 ATK: 0 DEF: 0
+	En total ten: Vendas
+Miro Pereira pensou en atacar pero recapacitou ao verse ferido
+
+Día  1
+Pardo de Cela atopou Coitelo progresivo que lle da: HP: 0 ATK: 5 DEF: 1
+	En total ten: Coitelo progresivo
+Xabarín atopou AK-47 que lle da: HP: 0 ATK: 10 DEF: 0
+	En total ten: Pastillas misteriosas, AK-47
+Atilano atopou Cacho de ferro que lle da: HP: 0 ATK: 2 DEF: 2
+	En total ten: Vendas, Cacho de ferro
+Son Goku atopou Colacao que lle da: HP: 1 ATK: 1 DEF: 1
+	En total ten: Ferro da cociña, Colacao
+Tonecho intentou matar a Pardo de Cela pero non deu e ambos escaparon vivos
+Atilano matou a Miro Pereira
+
+Día  2
+Tonecho atopou Mel que lle da: HP: 5 ATK: 0 DEF: 2
+	En total ten: Mel
+Pardo de Cela intentou matar a Tonecho pero non deu e ambos escaparon vivos
+Son Goku non deu feito nada con xeito en todo o día
+Atilano matou a Tonecho
+
+Día  3
+Son Goku escondeuse
+Atilano escondeuse
+Xabarín atopou Sapo Bufo que lle da: HP: 0 ATK: 1 DEF: 0
+	En total ten: Pastillas misteriosas, AK-47, Sapo Bufo
+Pardo de Cela descansou para recuperar folgos
+
+Día  4
+Pardo de Cela escondeuse
+Son Goku atopou Vendas que lle da: HP: 7 ATK: 0 DEF: 0
+	En total ten: Ferro da cociña, Colacao, Vendas
+Xabarín atopou Arco que lle da: HP: 0 ATK: 5 DEF: 0
+	En total ten: Pastillas misteriosas, AK-47, Sapo Bufo, Arco
+Atilano intentou matar a Son Goku pero non deu e ambos escaparon vivos
+
+Día  5
+Atilano escondeuse
+Son Goku escondeuse
+Pardo de Cela atopou Navalla oxidada que lle da: HP: 0 ATK: 4 DEF: 0
+	En total ten: Coitelo progresivo, Navalla oxidada
+Xabarín atopou Vendas que lle da: HP: 7 ATK: 0 DEF: 0
+	En total ten: Pastillas misteriosas, AK-47, Sapo Bufo, Arco, Vendas
+
+Día  6
+Son Goku atopou Ballesta que lle da: HP: 0 ATK: 7 DEF: 0
+	En total ten: Ferro da cociña, Colacao, Vendas, Ballesta
+Xabarín descansou para recuperar folgos
+Atilano descansou para recuperar folgos
+Pardo de Cela atopou Cacho de ferro que lle da: HP: 0 ATK: 2 DEF: 2
+	En total ten: Coitelo progresivo, Navalla oxidada, Cacho de ferro
+
+Día  7
+Son Goku escondeuse
+Atilano escondeuse
+Pardo de Cela atopou Sartén con aceite que salta moito que lle da: HP: 0 ATK: 4 DEF: 4
+	En total ten: Coitelo progresivo, Navalla oxidada, Cacho de ferro, Sartén con aceite que salta moito
+Xabarín descansou para recuperar folgos
+
+Día  8
+Son Goku non deu feito nada con xeito en todo o día
+Pardo de Cela non deu feito nada con xeito en todo o día
+Atilano atopou Poción máxica que lle da: HP: 10 ATK: 10 DEF: 10
+	En total ten: Vendas, Cacho de ferro, Poción máxica
+Xabarín atopou Mel que lle da: HP: 5 ATK: 0 DEF: 2
+	En total ten: Pastillas misteriosas, AK-47, Sapo Bufo, Arco, Vendas, Mel
+
+Día  9
+Xabarín descansou para recuperar folgos
+Atilano descansou para recuperar folgos
+Atilano matou a Son Goku
+
+Día  10
+Atilano non deu feito nada con xeito en todo o día
+Pardo de Cela matou a Atilano
+
+Día  11
+Xabarín atopou Cacho de ferro que lle da: HP: 0 ATK: 2 DEF: 2
+	En total ten: Pastillas misteriosas, AK-47, Sapo Bufo, Arco, Vendas, Mel, Cacho de ferro
+Pardo de Cela descansou para recuperar folgos
+
+Día  12
+Xabarín escondeuse
+Pardo de Cela atopou Coitelo progresivo que lle da: HP: 0 ATK: 5 DEF: 1
+	En total ten: Coitelo progresivo, Navalla oxidada, Cacho de ferro, Sartén con aceite que salta moito, Coitelo progresivo
+
+Día  13
+Pardo de Cela escondeuse
+Xabarín atopou Cogumelos alucinóxenos que lle da: HP: 4 ATK: 1 DEF: 1
+	En total ten: Pastillas misteriosas, AK-47, Sapo Bufo, Arco, Vendas, Mel, Cacho de ferro, Cogumelos alucinóxenos
+
+Día  14
+Pardo de Cela escondeuse
+Xabarín atopou Pito de Goma que lle da: HP: 0 ATK: 3 DEF: 2
+	En total ten: Pastillas misteriosas, AK-47, Sapo Bufo, Arco, Vendas, Mel, Cacho de ferro, Cogumelos alucinóxenos, Pito de Goma
+
+Día  15
+Xabarín atopou Navalla oxidada que lle da: HP: 0 ATK: 4 DEF: 0
+	En total ten: Pastillas misteriosas, AK-47, Sapo Bufo, Arco, Vendas, Mel, Cacho de ferro, Cogumelos alucinóxenos, Pito de Goma, Navalla oxidada
+Pardo de Cela atopou Cogumelos alucinóxenos que lle da: HP: 4 ATK: 1 DEF: 1
+	En total ten: Coitelo progresivo, Navalla oxidada, Cacho de ferro, Sartén con aceite que salta moito, Coitelo progresivo, Cogumelos alucinóxenos
+
+Día  16
+Xabarín matou a Pardo de Cela
+Xabarín gañou!!
